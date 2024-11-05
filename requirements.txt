@@ -1,0 +1,7 @@
+streamlit
+black
+sqlparse
+pylint
+astor
+streamlit-ace
+sqlite3  # Note: sqlite3 comes with Python standard library, no need to install separately
